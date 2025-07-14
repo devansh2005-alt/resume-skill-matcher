@@ -3,8 +3,7 @@
 A Streamlit web app that analyzes your resume and matches it with relevant job descriptions using Natural Language Processing (NLP).
 
 ## 🚀 Live Demo
-👉 [Click here to try the app](https://your-deployment-link.streamlit.app)  
-_(Replace this with your actual Streamlit link after deploying)_
+👉 [Click here to try the app](https://resume-skill-matcher-7jkqsn4ru9ymqqrof83wbr.streamlit.app/)  
 
 ---
 
